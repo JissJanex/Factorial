@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<stdlib.h>
 // Function to calculate factorial
 unsigned long long factorial(int n) {
     if (n < 0) {
